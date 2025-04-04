@@ -29,10 +29,9 @@
 // let tamanho = "abcd"
 // console.log(tamanho.length)
 
-let texto = "Programação sustentável"
-console.log(texto.indexOf(`el`))
+// let texto = "Programação sustentável"
+// console.log(texto.indexOf(`el`))
 
-let info = "Programação de ponta"
-console.log(info.slice(0, 11))
+// let info = "Programação de ponta"
+// console.log(info.slice(0, 11))
 
-//////// Operadores Aritimeticos
